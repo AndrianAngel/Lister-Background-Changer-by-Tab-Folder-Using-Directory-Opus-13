@@ -51,3 +51,14 @@ Once installed, the script provides new functionality inside Directory Opus. You
 
 - Open current background folder location in a new tab:  
   ListerBackgroundChanger NEWTAB
+
+🌹🌹 Install Notes 🌹🌹
+-You must have Directory Opus 13.16
+-Select Background Lister Changer (Andrianjary Sacha).js 👉 select setting menu 👉 choose install script
+
+
+✨✨Script Setting✨✨
+
+
+
+![L1 Settings](Images/L1.png)
