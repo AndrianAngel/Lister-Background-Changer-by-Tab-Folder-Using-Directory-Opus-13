@@ -62,3 +62,9 @@ Once installed, the script provides new functionality inside Directory Opus. You
 
 
 ![L1 Settings](Images/L1.png)
+
+🔥🔥Watch Demo Here🔥🔥
+The recording make it slow
+
+👉 https://youtu.be/2ft1Mu-567Q 👈
+
