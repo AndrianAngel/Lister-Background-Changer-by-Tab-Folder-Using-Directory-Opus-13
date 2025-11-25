@@ -1,4 +1,4 @@
-Background Lister Changer
+🌿🌿 Background Lister Changer 🌿🌿
 
 A Directory Opus 13 script that enhances your file manager by dynamically changing lister backgrounds and adding slideshow-style functionality. Designed for users who want a more personalized, visually engaging workspace.
 
