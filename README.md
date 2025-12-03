@@ -57,14 +57,25 @@ Once installed, the script provides new functionality inside Directory Opus. You
 -Select Background Lister Changer (Andrianjary Sacha).js 👉 select setting menu 👉 choose install script
 
 
+---
+
+
 ✨✨Script Setting✨✨
 
+---
 
 
 ![L1 Settings](Images/L1.png)
 
-🔥🔥Watch Demo Here🔥🔥
-The recording make it slow
 
-👉 https://youtu.be/2ft1Mu-567Q 👈
+---
+
+🔥🔥Watch Demo Here🔥🔥
+
+
+---
+
+![Lister.Background.gif Settings](Images/Lister.Background.gif)
+
+---
 
